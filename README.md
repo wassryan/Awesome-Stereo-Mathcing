@@ -5,6 +5,12 @@ This is a list of awesome paper about stereo matching and related work.
 
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|IROS21|[Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation](https://arxiv.org/abs/2108.05773)||
+|Arxiv21|[SRH-Net: Stacked Recurrent Hourglass Network for Stereo Matching](https://arxiv.org/abs/2105.11587)||
+|ICIVC21|[Stereo Matching Based on Visual Sensitive Information](https://arxiv.org/abs/2105.10831)||
+|CVPR21|[CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](https://arxiv.org/abs/2104.04314)||
+|IROS21|[Stereo Matching by Self-supervision of Multiscopic Vision](https://arxiv.org/abs/2104.04170)||
+|IROS21|[ORStereo: Occlusion-Aware Recurrent Stereo Matching for 4K-Resolution Images](https://arxiv.org/abs/2103.07798)||
 |Arxiv21|[Depth Refinement for Improved Stereo Reconstruction](https://arxiv.org/abs/2112.08070)||
 |Arxiv21|[RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/abs/2109.07547)|[code](https://github.com/princeton-vl/RAFT-Stereo) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT-Stereo)|
 |Arxiv21|[H-Net: Unsupervised Attention-based Stereo Depth Estimation Leveraging Epipolar Geometry](https://arxiv.org/abs/2104.11288)||
